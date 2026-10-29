@@ -1,6 +1,6 @@
-
+	
 import { ValueTest } from '@bhbr/tsts'
-import { ancestry } from '../upper-class.js'
+import { ancestry } from '../index.js'
 
 class A {}
 class B extends A {}
