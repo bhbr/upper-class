@@ -1,6 +1,6 @@
 {
   "name": "@bhbr/upper-class",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Some functions for object introspection",
   "type": "module",
   "main": "./dist/index.js",
